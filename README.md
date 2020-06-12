@@ -1,4 +1,5 @@
 # spring-cloud-config-server
 
 
-test
+springcloud config center 
+配置中心
